@@ -1,4 +1,4 @@
-# CREATING OUR VER OWN TOKEN
+# CREATING OUR OWN TOKEN
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. 
 
 Project title:
