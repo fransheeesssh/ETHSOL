@@ -1,16 +1,20 @@
-# ETHSOL
+# CREATING OUR VER OWN TOKEN
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. 
 
+Project title:
+Create a Token On this project we are going to use solidity which is a programming language designed for coding contracts on a blockchain. The purpose of this project is to test students how much they know and how does the transactions work on the blockchain.
 
-Project title: Create a Token On this project we are going to use solidity which is a programming language designed for coding contracts on a blockchain. The purpose of this project is to test students how much they know and how does the transactions work on the blockchain.
+Description:
+The project will have a token name and amount of value that can be minted or burned and also have a condition where the burn function cannot exceed the amount remaining on the account of the token.
 
-Description The project will have a token name and amount of value that can be minted or burned and also have a condition where the burn function cannot exceed the amount remaining on the account of the token.
+Getting Started: 
+How/where to download your program// Any modifications needed to be made to files/folders//
 
-Getting Started: How/where to download your program// Any modifications needed to be made to files/folders//
+Executing program:
+To run this program, you can use Remix, an online Solidity IDE. 
+To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Executing program To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
-
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., myToken.sol). Copy and paste the following code into the file: /////
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., MyToken.sol). Copy and paste the following code into the file: 
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
