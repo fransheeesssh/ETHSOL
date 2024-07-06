@@ -1,16 +1,16 @@
 # CREATING OUR OWN TOKEN
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. 
 
-Project title:
+# Project title:
 Create a Token On this project we are going to use solidity which is a programming language designed for coding contracts on a blockchain. The purpose of this project is to test students how much they know and how does the transactions work on the blockchain.
 
-Description:
+# Description:
 The project will have a token name and amount of value that can be minted or burned and also have a condition where the burn function cannot exceed the amount remaining on the account of the token.
 
-Getting Started: 
+# Getting Started: 
 How/where to download your program// Any modifications needed to be made to files/folders//
 
-Executing program:
+# Executing program:
 To run this program, you can use Remix, an online Solidity IDE. 
 To get started, go to the Remix website at https://remix.ethereum.org/.
 
